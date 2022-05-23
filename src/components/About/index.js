@@ -19,7 +19,7 @@ const Index = () => {
                     />
                 </Col>
                 <Col sm={9} md={10} lg={{ span: 5, offset: 1}}>
-                    <h1>Hi! I am Chun Kit Koon</h1>
+                    <h1>Hi! I am Chris Koon</h1>
                     <h4 style={{fontWeight: "300"}}>
                         I am a student at The Hong Kong Polytechnic Uuniversity, studying Computer science.
                         I love to code and study Cloud or networking in my spare time. When I am not doing either of it,

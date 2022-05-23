@@ -14,10 +14,10 @@ const ContactMe = () => {
                     <SocialIcon url='https://instagram.com/'/>  {/* N/A */}
                 </Col>
                 <Col sm={6} md={3} lg={3} style={{display: 'flex', justifyContent: 'center'}}>
-                    <SocialIcon url='https://www.linkedin.com/in/chun-kit-koon-08016322a/' />
+                    <SocialIcon url='https://www.linkedin.com/in/koonchris/' />
                 </Col>
                 <Col sm={6} md={3} lg={3} style={{display: 'flex', justifyContent: 'center'}}>
-                    <SocialIcon url='https://github.com/yuhu198275' fgColor="#dee2e6" />
+                    <SocialIcon url='https://github.com/ChrisWK51' fgColor="#dee2e6" />
                 </Col>
             </Row>
         </Container>
